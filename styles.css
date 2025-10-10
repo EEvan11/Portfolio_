@@ -893,8 +893,8 @@ body {
   }
 
   .project-icon img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 500px;
+    max-height: 700px;
   }
 }
 
