@@ -904,8 +904,8 @@ body {
   }
 
   .project-icon img {
-    max-width: 80px;
-    max-height: 80px;
+   max-width: 500px;
+    max-height: 700px;
   }
 }
 
